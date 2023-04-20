@@ -1,4 +1,4 @@
-# SustainabilityAndAdventOfCode
+# Sustainability And Advent Of Code
 
 Hackathon 2023 Sustainabilty and Advent of Code "Talk"
 
