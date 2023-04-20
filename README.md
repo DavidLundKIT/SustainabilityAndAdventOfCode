@@ -13,8 +13,8 @@ The talk about Green Coding by Knowit Experience DK excellent.
 See links.
 
 Docs:
-[GreenPRogrammingLaguages.pdf](GreenestProgrammingLanguages.pdf)
-[Karlskrona Manifesto](KarlskronaManifestoSustainability.pdf)
+*  [GreenPRogrammingLaguages.pdf](GreenestProgrammingLanguages.pdf)
+*  [Karlskrona Manifesto](KarlskronaManifestoSustainability.pdf)
 
 ## Talk points - What do I mean
 
